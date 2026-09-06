@@ -37,4 +37,3 @@ PRODUCT_DEVICE := nabu
 PRODUCT_NAME := twrp_nabu
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Xiaomi Pad 5
-PRODUCT_MANUFACTURER := Xiaomi
